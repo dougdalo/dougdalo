@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @dougdalo!
-- 👀 I’m interested in programing JS and cloud ☁️ computing;
-- 🌱 I’m currently learning JS, React, HTML+CSS, ☁️ AWS, AZURE and more tecnologis;
-- 📫 How to reach me douglas.dalo001@gmail.com
 
 <div align="center"">
   <a href="https://github.com/dougdalo">
